@@ -8,5 +8,13 @@
         "tags": ["seo", "sitemap", "meta"],
         "screenshots": [],
         "readme_url": "https://github.com/example/marble-seo#readme"
+    },
+
+    "marblecms/marble-ecommerce": {
+        "verified": true,
+        "featured": true,
+        "tags": ["ecommerce", "shop", "stripe", "orders", "products"],
+        "screenshots": [],
+        "readme_url": "https://github.com/marblecms/plugin-ecommerce#readme"
     }
 }
